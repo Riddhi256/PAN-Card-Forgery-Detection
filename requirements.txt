@@ -1,0 +1,5 @@
+django
+opencv-python
+scikit-learn
+numpy
+scikit-image
